@@ -1,4 +1,3 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { PageNotFoundModuleModule } from './Modules/page-not-found/page-not-found-module.module';
@@ -10,12 +9,15 @@ const routes: Routes = [];
 
 @NgModule({
   imports: [
-    BrowserModule,
     // Add Modules Here 
     HomeModule,
     RegistrationModule,
     PageNotFoundModuleModule,
   ],
-  exports: [RouterModule]
+  exports: [
+    HomeModule,
+    RegistrationModule,
+    PageNotFoundModuleModule,
+  ]
 })
 export class AppRoutingModule { }

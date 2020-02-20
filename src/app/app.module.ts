@@ -1,3 +1,4 @@
+import { DynamicScriptLoaderService } from 'src/app/Services/DynamicScriptLoaderService/dynamic-script-loader.service';
 
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
@@ -13,7 +14,6 @@ import { AppComponent } from './app.component';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

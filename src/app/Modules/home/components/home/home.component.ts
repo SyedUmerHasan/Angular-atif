@@ -1,4 +1,3 @@
-import { DynamicScriptLoaderService } from './../../../../Services/DynamicScriptLoaderService/dynamic-script-loader.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -8,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  constructor(private dynamicScriptLoader: DynamicScriptLoaderService) { 
+  constructor() { 
   }
 
   ngOnInit(): void {

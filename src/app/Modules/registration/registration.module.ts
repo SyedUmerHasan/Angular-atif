@@ -1,4 +1,3 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
@@ -16,7 +15,6 @@ import { RegistrationModuleRoutes } from 'src/app/Routes/routes';
     RouterModule.forRoot(RegistrationModuleRoutes),
   ],
   exports : [
-    BrowserModule,
     RouterModule,
     LoginComponent,
     SignupComponent
