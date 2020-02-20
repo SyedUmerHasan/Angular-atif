@@ -14,6 +14,7 @@ import { AppComponent } from './app.component';
     BrowserModule,
     AppRoutingModule
   ],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  providers: [DynamicScriptLoaderService]
 })
 export class AppModule { }
