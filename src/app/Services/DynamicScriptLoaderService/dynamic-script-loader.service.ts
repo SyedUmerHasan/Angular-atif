@@ -21,12 +21,12 @@ export const ScriptStore: Scripts[] = [
   { name: "13", src : "/assets/usertheme/js/plugins.js"},
   { name: "14", src : "/assets/usertheme/js/main.js"},
   { name:"15", src: "https://maps.googleapis.com/maps/api/js?key=AIzaSyB13ZAvCezMx5TETYIiGlzVIq65Mc2FG5g"},
-  { name:"16", src: "js/gmaps.min.js"},
-  { name:"17", src: "js/plugins.js"},
-  { name:"18", src: "js/jquery.form.js"},
-  { name:"19", src: "js/jquery.validate.min.js"},
-  { name:"20", src: "js/contact.js"},
-  { name:"21", src: "js/main.js"}
+  { name:"16", src: "/assets/usertheme/js/gmaps.min.js"},
+  { name:"17", src: "/assets/usertheme/js/plugins.js"},
+  { name:"18", src: "/assets/usertheme/js/jquery.form.js"},
+  { name:"19", src: "/assets/usertheme/js/jquery.validate.min.js"},
+  { name:"20", src: "/assets/usertheme/js/contact.js"},
+  { name:"21", src: "/assets/usertheme/js/main.js"}
 ];
 
 
