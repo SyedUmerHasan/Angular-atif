@@ -3372,67 +3372,67 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 
     var ScriptStore = [{
       name: "1",
-      src: "/src/assets/usertheme/js/jquery-3.2.1.min.js"
+      src: "/assets/usertheme/js/jquery-3.2.1.min.js"
     }, {
       name: "2",
-      src: "/src/assets/usertheme/js/propper.js"
+      src: "/assets/usertheme/js/propper.js"
     }, {
       name: "3",
-      src: "/src/assets/usertheme/js/bootstrap.min.js"
+      src: "/assets/usertheme/js/bootstrap.min.js"
     }, {
       name: "4",
-      src: "/src/assets/usertheme/vendors/wow/wow.min.js"
+      src: "/assets/usertheme/vendors/wow/wow.min.js"
     }, {
       name: "5",
-      src: "/src/assets/usertheme/vendors/sckroller/jquery.parallax-scroll.js"
+      src: "/assets/usertheme/vendors/sckroller/jquery.parallax-scroll.js"
     }, {
       name: "6",
-      src: "/src/assets/usertheme/vendors/owl-carousel/owl.carousel.min.js"
+      src: "/assets/usertheme/vendors/owl-carousel/owl.carousel.min.js"
     }, {
       name: "7",
-      src: "/src/assets/usertheme/vendors/imagesloaded/imagesloaded.pkgd.min.js"
+      src: "/assets/usertheme/vendors/imagesloaded/imagesloaded.pkgd.min.js"
     }, {
       name: "8",
-      src: "/src/assets/usertheme/vendors/isotope/isotope-min.js"
+      src: "/assets/usertheme/vendors/isotope/isotope-min.js"
     }, {
       name: "9",
-      src: "/src/assets/usertheme/vendors/magnify-pop/jquery.magnific-popup.min.js"
+      src: "/assets/usertheme/vendors/magnify-pop/jquery.magnific-popup.min.js"
     }, {
       name: "10",
-      src: "/src/assets/usertheme/vendors/bootstrap-selector/js/bootstrap-select.min.js"
+      src: "/assets/usertheme/vendors/bootstrap-selector/js/bootstrap-select.min.js"
     }, {
       name: "11",
-      src: "/src/assets/usertheme/vendors/nice-select/jquery.nice-select.min.js"
+      src: "/assets/usertheme/vendors/nice-select/jquery.nice-select.min.js"
     }, {
       name: "12",
-      src: "/src/assets/usertheme/vendors/scroll/jquery.mCustomScrollbar.concat.min.js"
+      src: "/assets/usertheme/vendors/scroll/jquery.mCustomScrollbar.concat.min.js"
     }, {
       name: "13",
-      src: "/src/assets/usertheme/js/plugins.js"
+      src: "/assets/usertheme/js/plugins.js"
     }, {
       name: "14",
-      src: "/src/assets/usertheme/js/main.js"
+      src: "/assets/usertheme/js/main.js"
     }, {
       name: "15",
-      src: "https://maps.googleapis.com/maps/api/js?key=AIzaSyB13ZAvCezMx5TETYIiGlzVIq65Mc2FG5g"
+      src: "//maps.googleapis.com/maps/api/js?key=AIzaSyB13ZAvCezMx5TETYIiGlzVIq65Mc2FG5g"
     }, {
       name: "16",
-      src: "/src/assets/usertheme/js/gmaps.min.js"
+      src: "/assets/usertheme/js/gmaps.min.js"
     }, {
       name: "17",
-      src: "/src/assets/usertheme/js/plugins.js"
+      src: "/assets/usertheme/js/plugins.js"
     }, {
       name: "18",
-      src: "/src/assets/usertheme/js/jquery.form.js"
+      src: "/assets/usertheme/js/jquery.form.js"
     }, {
       name: "19",
-      src: "/src/assets/usertheme/js/jquery.validate.min.js"
+      src: "/assets/usertheme/js/jquery.validate.min.js"
     }, {
       name: "20",
-      src: "/src/assets/usertheme/js/contact.js"
+      src: "/assets/usertheme/js/contact.js"
     }, {
       name: "21",
-      src: "/src/assets/usertheme/js/main.js"
+      src: "/assets/usertheme/js/main.js"
     }];
 
     var DynamicScriptLoaderService =
