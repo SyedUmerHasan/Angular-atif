@@ -1,5 +1,6 @@
 import { DynamicScriptLoaderService } from './Services/DynamicScriptLoaderService/dynamic-script-loader.service';
 import { Component } from '@angular/core';
+   
 
 @Component({
   selector: 'app-root',
