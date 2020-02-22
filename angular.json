@@ -41,7 +41,7 @@
               "src/assets/usertheme/vendors/scroll/jquery.mCustomScrollbar.concat.min.js",
               "src/assets/usertheme/js/plugins.js",
               "src/assets/usertheme/js/main.js",
-              "https://maps.googleapis.com/maps/api/js?key=AIzaSyB13ZAvCezMx5TETYIiGlzVIq65Mc2FG5g",
+              "//maps.googleapis.com/maps/api/js?key=AIzaSyB13ZAvCezMx5TETYIiGlzVIq65Mc2FG5g",
               "src/assets/usertheme/js/gmaps.min.js",
               "src/assets/usertheme/js/plugins.js",
               "src/assets/usertheme/js/jquery.form.js",
